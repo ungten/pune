@@ -15,7 +15,7 @@ a {
 .wrapper {
   padding-top: 66px;
   padding-bottom: 250px;
-  background-image: url(/images/Background.png);
+  background-image: url(../images/Background.png);
 }
 
 .header {
